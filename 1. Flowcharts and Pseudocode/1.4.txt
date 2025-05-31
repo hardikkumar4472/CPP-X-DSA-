@@ -1,0 +1,2 @@
+Simple intrest
+Start->input P,R,T>si=(P*R*T)/100->Print SI->exit
