@@ -1,0 +1,1 @@
+Flow chart and pseudocode of max of 2 nos.
