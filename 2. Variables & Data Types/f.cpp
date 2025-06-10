@@ -1,0 +1,1 @@
+//Output in c++ and basic cin,cout and basic
