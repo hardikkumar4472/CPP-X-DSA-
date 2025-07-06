@@ -1,0 +1,1 @@
+// Output of bool(3)+2, cout<<(23.5+2+'A')<<endl;
